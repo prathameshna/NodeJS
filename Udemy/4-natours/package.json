@@ -6,15 +6,18 @@
   "scripts": {
     "start:dev": "nodemon server.js",
     "start:prod": "NODE_ENV=production nodemon server.js",
-    "debug": "ndb server.js"
+    "debug": "NODE_ENV=production ndb server.js"
   },
   "author": "Prathamesh Nadhe",
   "license": "ISC",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.13.17",
     "morgan": "^1.10.0",
+    "nbd": "^0.2.2",
     "ndb": "^1.1.5",
     "slugify": "^1.6.6",
     "validator": "^13.9.0"
