@@ -57,14 +57,18 @@ exports.login = catchAsync( async (req, res, next) => {
 
     // 1) Check if email and password exist
     if(!email || !password) {
-        return next(new AppErrorHandling('Please provide email and password!', 400));
+        return next(
+            new AppErrorHandling('Please provide email and password!', 400)
+        );
     }
 
     // 2) Check if user exists && password is correct
     const user = await User.findOne({email}).select('+password');
 
     if(!user || !(await user.correctPassword(password, user.password))) {
-        return next(new AppErrorHandling('Incorrect email or password', 401));
+        return next(
+            new AppErrorHandling('Incorrect email or password', 401)
+        );
     }
 
 
@@ -91,12 +95,16 @@ exports.protect = catchAsync( async (req, res, next ) => {
     // 3) Check if user still exists
     const currentUser = await User.findById(decodedData.id);
     if(!currentUser) {
-            return next(new AppErrorHandling('The user belonging to this token does no longer exist.'), 401);
+            return next(
+                new AppErrorHandling('The user belonging to this token does no longer exist.', 401)
+            );
     }
 
     // 4) Check if user changes password after the token was issued
     if (currentUser.changedPasswordAfter(decodedData.iat)) {
-        return next(new AppErrorHandling('User recently changed password! please login again.', 401))
+        return next(
+                new AppErrorHandling('User recently changed password! please login again.', 401)
+            );
     }
 
     // Grant Access to Protected Route
