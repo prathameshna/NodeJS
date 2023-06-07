@@ -1,0 +1,491 @@
+[
+  {
+    "startLocation": {
+      "description": "Rajasthan, India",
+      "type": "Point",
+      "coordinates": [73.7125, 24.5854],
+      "address": "Udaipur, Rajasthan, India."
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-2-1.jpg", "tour-2-2.jpg", "tour-2-3.jpg"],
+    "startDates": [
+      "2023-06-19T09:00:00.000Z",
+      "2023-07-20T09:00:00.000Z",
+      "2023-08-18T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2955",
+    "name": "The Royal Rajasthan",
+    "duration": 7,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a1f4e2f8fb814b56fa185"],
+    "price": 55499,
+    "summary": "Rich Heritage, Majestic Forts, Unveiling the Land of Maharajas and Vibrant Culture Come Together.",
+    "description": "Embark on a journey through the enchanting city of Udaipur, where you'll be captivated by the grandeur of the City Palace, the tranquility of Lake Pichola, and the intricate craftsmanship of the Jagdish Temple. Explore the historical wonders of Kumbhalgarh, including the imposing Kumbhalgarh Fort and its stunning palaces, such as Badal Mahal and Neelkanth Mahadev Temple. In Ranakpur, immerse yourself in the serenity of the Ranakpur Jain Temple, renowned for its breathtaking architecture and intricate marble carvings.",
+    "imageCover": "tour-2-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2959",
+        "description": "Udaipur",
+        "type": "Point",
+        "coordinates": [73.7125, 24.5854],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2958",
+        "description": "Jodhpur",
+        "type": "Point",
+        "coordinates": [73.0243, 26.2389],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2957",
+        "description": "Pushkar",
+        "type": "Point",
+        "coordinates": [74.5511, 26.4899],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2956",
+        "description": "Jaipur",
+        "type": "Point",
+        "coordinates": [75.7873, 26.9124],
+        "day": 7
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Sikkim, India",
+      "type": "Point",
+      "coordinates": [88.6065, 27.3389],
+      "address": "Gangtok, Sikkim, India"
+    },
+    "ratingsAverage": 5,
+    "ratingsQuantity": 9,
+    "images": ["tour-1-1.jpg", "tour-1-2.jpg", "tour-1-3.jpg"],
+    "startDates": [
+      "2023-06-25T09:00:00.000Z",
+      "2023-07-20T09:00:00.000Z",
+      "2023-10-05T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2951",
+    "name": "Sikkim & Darjeeling",
+    "duration": 6,
+    "maxGroupSize": 25,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a1f292f8fb814b56fa184"
+    ],
+    "price": 50499,
+    "summary": "Misty Mountains and Vibrant Cultures: Discovering Sikkim & Darjeeling",
+    "description": "Embark on a captivating journey through Sikkim and Darjeeling, where you'll discover the beauty of Gangtok, the capital city of Sikkim, and its serene Tsongmo Lake and Baba Mandir. Continue to Pelling, where you'll be mesmerized by Kanchenjunga Falls, Pemavangtse Monastery, and the enchanting landscapes. Journey to Darjeeling, the 'Queen of the Hills', and indulge in the panoramic views of tea gardens, explore Batasia Loop, and visit the Himalayan Mountaineering Institute. Immerse yourself in the charm of these enchanting destinations, filled with spirituality, natural wonders, and cultural treasures.",
+    "imageCover": "tour-1-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2954",
+        "description": "Gangtok",
+        "type": "Point",
+        "coordinates": [88.6065, 27.3389],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2953",
+        "description": "Pelling",
+        "type": "Point",
+        "coordinates": [88.2638, 27.3163],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2952",
+        "description": "Darjeeling",
+        "type": "Point",
+        "coordinates": [88.2627, 27.0360],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Kerala, India",
+      "type": "Point",
+      "coordinates": [77.0595, 10.0889],
+      "address": "Munnar, Cochin, India"
+    },
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 6,
+    "images": ["tour-3-1.jpg", "tour-3-2.jpg", "tour-3-3.jpg"],
+    "startDates": [
+      "2024-01-05T10:00:00.000Z",
+      "2024-02-12T10:00:00.000Z",
+      "2024-03-06T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295a",
+    "name": "Unwind in Kerala",
+    "duration": 5,
+    "maxGroupSize": 10,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21d02f8fb814b56fa189",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 997,
+    "summary": "Explore serene backwaters, lush tea plantations, pristine beaches, and indulge in authentic Ayurvedic treatments, making it a journey of relaxation and cultural discovery.",
+    "description": "Explore the natural wonders of Kerala on this captivating tour. Begin in Cochin and journey to the picturesque hill station of Munnar, witnessing breathtaking waterfalls and lush tea plantations along the way. Enjoy a full day of sightseeing in Munnar, visiting the Rose Garden, Tea Gardens, and serene lakes. Continue to Thekkady, known for its wildlife sanctuary and spice plantations, where you can embark on a thrilling boating experience. Cruise through the famous backwaters of Alleppey in a traditional houseboat, savoring the tranquility of the surroundings. Conclude your tour with a visit to the iconic Jatayu Earth's Centre and the southernmost tip of India in Kanyakumari, before bidding farewell to Trivandrum, enriched with cultural experiences and cherished memories.",
+    "imageCover": "tour-3-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c295c",
+        "description": "Munnar",
+        "type": "Point",
+        "coordinates": [77.0595, 10.0889],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Thekkady",
+        "type": "Point",
+        "coordinates": [77.1581, 9.6022],
+        "day": 2
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Alleppey Beach",
+        "type": "Point",
+        "coordinates": [76.3331, 9.5044],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Trivandrum",
+        "type": "Point",
+        "coordinates": [76.9366, 8.5241],
+        "day": 4
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295b",
+        "description": "Kanyakumari",
+        "type": "Point",
+        "coordinates": [77.5385, 8.0883],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Andaman, India",
+      "type": "Point",
+      "coordinates": [92.7265, 11.6234],
+      "address": "Port Blair, Andaman, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-5-1.jpg", "tour-5-2.jpg", "tour-5-3.jpg"],
+    "startDates": [
+      "2023-08-05T09:00:00.000Z",
+      "2024-03-20T10:00:00.000Z",
+      "2024-08-12T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2961",
+    "name": "Andaman Islands",
+    "duration": 4,
+    "maxGroupSize": 15,
+    "difficulty": "medium",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a23412f8fb814b56fa18c",
+      "5c8a201e2f8fb814b56fa186"
+    ],
+    "price": 35499,
+    "summary": "Paradise Unveiled - Serene Beaches, Pristine Waters, and Tropical Bliss",
+    "description": "Explore the enchanting Andaman Islands, starting from Port Blair's serene Corbyn's Cove Beach. Witness the captivating Sound and Light Show at Cellular Jail. Discover the pristine beauty of Havelock Island's Radha Nagar Beach and indulge in water adventures at Elephant Beach. Visit Neil Island's Laxmanpur Beach and Bharatpur Beach for breathtaking sunsets and exciting water sports. Return to Port Blair with unforgettable memories of your Andaman journey.",
+    "imageCover": "tour-5-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2965",
+        "description": "Corbyns Cove Beach",
+        "type": "Point",
+        "coordinates": [92.7413, 11.6789],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2964",
+        "description": "Havelock Island",
+        "type": "Point",
+        "coordinates": [93.0090, 11.9680],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2963",
+        "description": "Neil Island",
+        "type": "Point",
+        "coordinates": [93.0385, 11.8349],
+        "day": 4
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Himachal Pradesh, India",
+      "type": "Point",
+      "coordinates": [75.9792, 32.5387],
+      "address": "Dalhousie, Himachal Pradesh, India"
+    },
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 5,
+    "images": ["tour-4-1.jpg", "tour-4-2.jpg", "tour-4-3.jpg"],
+    "startDates": [
+      "2024-03-11T10:00:00.000Z",
+      "2024-05-02T09:00:00.000Z",
+      "2024-06-09T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c295d",
+    "name": "Sacred Hills and Cultural Delights",
+    "duration": 6,
+    "maxGroupSize": 20,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a201e2f8fb814b56fa186"],
+    "price": 44275,
+    "summary": "Unveiling the Charms of Dalhousie, Dharamshala and Amritsar",
+    "description": "Embark on a delightful tour starting with a visit to Dalhousie, a charming hill station surrounded by snow-capped mountains. Explore Khajjiar, often called 'Mini Switzerland', and indulge in various activities. Enjoy a scenic boat ride at Chamera Lake. Continue your journey to Dharamshala, the winter capital of Himachal Pradesh, renowned as the home of Dalai Lama and the Tibetan community. Explore Bhagsunag Temple, Dalai Lama Monastery, and the picturesque Dharamshala Stadium. Visit Jwalaji Temple en route to Amritsar, where you can immerse yourself in the tranquility of the Golden Temple and witness the historic Jallianwala Bagh massacre site. Experience the vibrant culture at Attari Wagah Border and savor Punjabi cuisine at Sadda Pind. Conclude the tour with cherished memories and depart for your hometown.",
+    "imageCover": "tour-4-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2960",
+        "description": "Dalhousie",
+        "type": "Point",
+        "coordinates": [75.9792, 32.5387],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295f",
+        "description": "Dharamshala",
+        "type": "Point",
+        "coordinates": [76.3234, 32.2190],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c295e",
+        "description": "Amritsar",
+        "type": "Point",
+        "coordinates": [74.8723, 31.6340],
+        "day": 5
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Dubai, UAE",
+      "type": "Point",
+      "coordinates": [55.2708, 25.2048],
+      "address": "Admiral Plaza Hotel, Dubai, UAE"
+    },
+    "ratingsAverage": 3.9,
+    "ratingsQuantity": 7,
+    "images": ["tour-6-1.jpg", "tour-6-2.jpg", "tour-6-3.jpg"],
+    "startDates": [
+      "2023-07-19T09:00:00.000Z",
+      "2023-09-06T09:00:00.000Z",
+      "2024-03-18T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2966",
+    "name": "The Majestic Wonders of Dubai",
+    "duration": 4,
+    "maxGroupSize": 8,
+    "difficulty": "difficult",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a1f292f8fb814b56fa184",
+      "5c8a1f4e2f8fb814b56fa185"
+    ],
+    "price": 41099,
+    "summary": "Dazzling Skyscrapers, Desert Adventures, and Cultural Delights Await in Dubai, the City of Contrasts.",
+    "description": "The Dubai tour begins with your arrival at Sharjah International Airport and transfer to Admiral Plaza Hotel Dubai. The following day, you have the morning at leisure before embarking on an exciting Desert Safari in the afternoon, including a bumpy ride through sand dunes and a delightful dinner at a desert camp. On the third day, enjoy a Dubai City Tour in the morning, visiting iconic landmarks like Burj Al Arab and Dubai Mall, followed by a memorable Dhow Cruise on Dubai Creek in the evening. The fourth day is free for leisure or exploring the city on your own. On the final day, visit the stunning Miracle Garden in the morning before departing from Dubai.",
+    "imageCover": "tour-6-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296b",
+        "description": "Dubai City Tour",
+        "type": "Point",
+        "coordinates": [55.2708, 25.2048],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296a",
+        "description": "Dhow Cruise",
+        "type": "Point",
+        "coordinates": [55.3095, 25.2592],
+        "day": 3
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Pokhara, Nepal",
+      "type": "Point",
+      "coordinates": [83.9856, 28.2096],
+      "address": "Pokhara, Nepal"
+    },
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 6,
+    "images": ["tour-8-1.jpg", "tour-8-2.jpg", "tour-8-3.jpg"],
+    "startDates": [
+      "2023-10-25T09:00:00.000Z",
+      "2024-01-30T10:00:00.000Z",
+      "2024-03-23T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2970",
+    "name": "The Nepal Adventure Escape",
+    "duration": 9,
+    "maxGroupSize": 8,
+    "difficulty": "medium",
+    "guides": ["5c8a21d02f8fb814b56fa189", "5c8a1f292f8fb814b56fa184"],
+    "price": 35999,
+    "summary": "Pokhara known for its stunning lakes, Chitwan for wildlife encounters, and Kathmandu for its vibrant cultural heritage",
+    "description": "Embark on a captivating journey through Nepal, starting with a scenic drive from Kathmandu to Pokhara. Enjoy the breathtaking sunrise at Sarangkot Viewpoint and a tranquil boat ride on Phewa Lake. Explore Pokhara's highlights, including David's Fall and the International Mountain Museum. Continue your adventure to Chitwan National Park, where you'll experience thrilling wildlife encounters on elephant back or Jeep safari. Take a canoe ride along the Rapti River and witness the mesmerizing Tharu Cultural Dance Show. Return to Kathmandu, visiting the Manakamana Temple en route, and delve into the city's rich cultural heritage. Explore sacred sites like Pashupatinath and Bodh Nath Stupa, immersing yourself in spiritual traditions. Conclude your trip with fond memories and depart from Kathmandu, carrying the blessings of this enchanting land.",
+    "imageCover": "tour-8-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2973",
+        "description": "Pokhara",
+        "type": "Point",
+        "coordinates": [83.9856, 28.2096],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2972",
+        "description": " Chitwan National Park",
+        "type": "Point",
+        "coordinates": [84.4313, 27.5934],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2971",
+        "description": "Kathmandu",
+        "type": "Point",
+        "coordinates": [85.3240, 27.7172],
+        "day": 6
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Shimla, India",
+      "type": "Point",
+      "coordinates": [77.1734, 31.1048],
+      "address": "Shimla, Himachal Pradesh, India"
+    },
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 7,
+    "images": ["tour-9-1.jpg", "tour-9-2.jpg", "tour-9-3.jpg"],
+    "startDates": [
+      "2023-12-16T10:00:00.000Z",
+      "2024-01-16T10:00:00.000Z",
+      "2024-12-12T10:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c2974",
+    "name": "Enchanting Himalayan Escapade",
+    "duration": 3,
+    "maxGroupSize": 12,
+    "difficulty": "easy",
+    "guides": [
+      "5c8a21f22f8fb814b56fa18a",
+      "5c8a201e2f8fb814b56fa186",
+      "5c8a23412f8fb814b56fa18c"
+    ],
+    "price": 65499,
+    "summary": "Three enchanting destinations nestled in the Himalayas. Experience the charm of hill stations, indulge in thrilling adventures.",
+    "description": "Embark on a scenic journey through Shimla, Manali, Kasol, and Chandigarh, experiencing the best of these enchanting destinations. From exploring the lively streets of Shimla to enjoying thrilling snow adventures in Manali, and immersing in the natural beauty of Kasol, this trip offers a perfect blend of nature, culture, and adventure. Discover iconic landmarks, indulge in local cuisine, and create unforgettable memories as you explore these captivating destinations. Conclude your journey in Chandigarh, where you can admire beautiful gardens and soak in the vibrant atmosphere before bidding farewell to this incredible tour.",
+    "imageCover": "tour-9-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Shimla",
+        "type": "Point",
+        "coordinates": [77.1734, 31.1048],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Manali",
+        "type": "Point",
+        "coordinates": [77.1887, 32.2396],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c2975",
+        "description": "Kasol",
+        "type": "Point",
+        "coordinates": [77.3149, 32.0099],
+        "day": 1
+      }
+    ]
+  },
+  {
+    "startLocation": {
+      "description": "Bhutan",
+      "type": "Point",
+      "coordinates": [89.3886, 26.8550],
+      "address": "Phuentsholing, Bhutan"
+    },
+    "ratingsAverage": 4.4,
+    "ratingsQuantity": 7,
+    "images": ["tour-7-1.jpg", "tour-7-2.jpg", "tour-7-3.jpg"],
+    "startDates": [
+      "2023-09-01T09:00:00.000Z",
+      "2024-02-12T10:00:00.000Z",
+      "2024-04-14T09:00:00.000Z"
+    ],
+    "_id": "5c88fa8cf4afda39709c296c",
+    "name": "The Breathtaking Bhutan",
+    "duration": 12,
+    "maxGroupSize": 8,
+    "difficulty": "easy",
+    "guides": ["5c8a22c62f8fb814b56fa18b", "5c8a23412f8fb814b56fa18c"],
+    "price": 61400,
+    "summary": " Unveiling the Mysteries of the Thunder Dragon. Explore the enchanting landscapes and uncover the secrets of this magical kingdom.",
+    "description": "Embark on a scenic journey through Bhutan and Darjeeling with this itinerary. The tour begins with a drive from Bagdogra Airport to Phuentsholing, where you'll check in at the hotel. The following day, after obtaining the necessary permits, you'll continue to Thimphu and explore attractions like the Tashichho Dzong, Memorial Chorten, and National Library. The journey then takes you to Paro, known for its picturesque landscapes and historic sites, including a visit to the famous Taktsang Monastery (Tiger's Nest) perched on a cliff. Afterward, you'll return to Phuentsholing before heading to the enchanting hill station of Darjeeling. In Darjeeling, you'll enjoy sightseeing at popular spots like Batasia Loop, Ghoom Monastery, and the Himalayan Mountaineering Institute. The tour concludes with a drive back to Bagdogra Airport. Throughout the journey, you'll be immersed in the natural beauty and cultural heritage of these captivating destinations.",
+    "imageCover": "tour-7-cover.jpg",
+    "locations": [
+      {
+        "_id": "5c88fa8cf4afda39709c296f",
+        "description": "Phuentsholing",
+        "type": "Point",
+        "coordinates": [89.3886, 26.8550],
+        "day": 1
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296e",
+        "description": "Thimphu",
+        "type": "Point",
+        "coordinates": [89.6339, 27.4712],
+        "day": 3
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Paro",
+        "type": "Point",
+        "coordinates": [89.4169, 27.4305],
+        "day": 5
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Taktsang Monastery (Tiger's Nest)",
+        "type": "Point",
+        "coordinates": [89.3630, 27.4915],
+        "day": 8
+      },
+      {
+        "_id": "5c88fa8cf4afda39709c296d",
+        "description": "Darjeeling",
+        "type": "Point",
+        "coordinates": [88.2627, 27.0360],
+        "day": 10
+      }
+    ]
+  }
+]
