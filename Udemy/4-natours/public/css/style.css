@@ -376,7 +376,7 @@ body {
     to(#28b487)
   );
   background-image: linear-gradient(to right bottom, #7dd56f, #28b487);
-  opacity: 0.85;
+  opacity: 0.35;
 }
 
 .heading-box {
@@ -798,7 +798,7 @@ body {
   background-color: #f7f7f7;
   padding: 6rem 4rem 3rem 4rem;
   font-size: 1.4rem;
-  display: grid;
+  display: flex;
   grid-template-columns: auto auto;
   grid-row-gap: 0.75rem;
   -webkit-box-pack: justify;
@@ -1116,7 +1116,7 @@ body {
     to(#28b487)
   );
   background-image: linear-gradient(to right bottom, #7dd56f, #28b487);
-  opacity: 0.7;
+  opacity: 0.3;
 }
 .card__picture-img {
   -o-object-fit: cover;
@@ -1322,3 +1322,4 @@ body {
   -webkit-transform: translateY(-2px);
   transform: translateY(-2px);
 }
+
